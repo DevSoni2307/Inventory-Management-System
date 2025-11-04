@@ -157,3 +157,5 @@ Follow these steps to run the project on your local machine.
 Open your terminal or command prompt and install the necessary Python packages:
 ```bash
 pip install pymysql, tkcalendar, messagebox
+Open you MySQL Command Line Client and write the following code to create database: create DATABASE inventory_system;
+
